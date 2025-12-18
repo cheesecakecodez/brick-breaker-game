@@ -80,4 +80,7 @@ This project was built to:
 ## Author
 
 Suhani Nagwani  
-
+<img width="961" height="758" alt="Screenshot 2025-12-18 042820" src="https://github.com/user-attachments/assets/4360a994-5428-43ba-9098-8583c4966ba4" />
+<img width="961" height="758" alt="Screenshot 2025-12-18 042635" src="https://github.com/user-attachments/assets/e895033e-f039-4099-a112-a51e2bf54fa7" />
+<img width="961" height="758" alt="Screenshot 2025-12-18 042556" src="https://github.com/user-attachments/assets/4173a83a-d092-461d-84d4-92cb7e1e730d" />
+<img width="1192" height="823" alt="Screenshot 2025-04-28 032354" src="https://github.com/user-attachments/assets/73220b24-5a56-4e10-b4c9-8b968e18a8fd" />
